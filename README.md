@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://play.google.com/store/apps/details?id=com.e.ak_profile](https://play.google.com/store/apps/details?id=com.e.ak_profile)
 
-- 💬 Ask me about **Native android, flutter**
+- 💬 Ask me about **Java,Native android, flutter**
 
 - 📫 How to reach me **aravindhraj283@gmail.com & 7639894991**
 
-- 📄 Know about my experiences [5+ years of experience in Android, Kotlin & Flutter](5+ years of experience in Android, Kotlin & Flutter)
+- 📄 Know about my experiences [5+ years of experience in Android, Kotlin & Flutter](5+ years of experience in Java, Android, Kotlin & Flutter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
